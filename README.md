@@ -1,4 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+<h1 align="center">🧑‍💻 Suman Dalui</h1>
+<h3 align="center">💻 Full Stack Web Developer | 🤖 Bot Creator | 📱 App Dev | 🇮🇳 India</h3>
+
 
 <p align="center">
   <a href="https://git.io/typing-svg">
