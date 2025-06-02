@@ -1,5 +1,5 @@
 <h1 align="center">🧑‍💻 Suman Dalui</h1>
-<h3 align="center">💻 Full Stack Web Developer | 🤖 Chat Bot Creator | Iot Dev |📱 App Dev | 🇮🇳 India</h3>
+<h3 align="center">💻 Full Stack Web Developer | 🤖 Chat Bot Creator | Iot Dev |📱 App Dev | 🇮🇳 </h3>
 
 
 <p align="center">
